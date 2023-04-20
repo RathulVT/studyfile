@@ -9,5 +9,4 @@ void main() {
   } else if (num.isOdd) {
     print("$num is odd");
   }
-  print("finished");
 }
