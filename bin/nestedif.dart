@@ -31,6 +31,8 @@ void main() {
       }
       stdout.writeln(" ");
     }
+  
+  //down side pyramid
 
     for(int i = 0 ; i< rows; i++)
     {
