@@ -1,20 +1,27 @@
 void main(){
-Parent data1 = Parent();
+Child chil = Child();
+
+chil.g;
 
 
 
-
-}
-
-class Parent{
-String? name;
 
 
 }
 
-class Child {
+class Parent extends S{
+String? name="asdfghjk";
 
-  String? place;
+
+}
+
+class Child extends Parent {
+
+  String? place="4567";
 
   int? age;
+}
+
+class S {
+  int g =0;
 }
