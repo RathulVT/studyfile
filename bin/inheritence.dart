@@ -1,4 +1,7 @@
 void main(){
+Parent data1 = Parent();
+
+
 
 
 }
@@ -6,12 +9,12 @@ void main(){
 class Parent{
 String? name;
 
-  
+
 }
 
 class Child {
 
-  String? name;
+  String? place;
 
   int? age;
 }
