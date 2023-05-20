@@ -13,19 +13,17 @@ void main() {
   }*/
 
 
-  // var name = 1;
-  // for (int i = 0; i <name; i++){
-  //   String user = stdin.readLineSync()!;
-  //   if(user.isEmpty){
-  //     print("exit");
-  //   }else{
-  //     stdout.write(user.length);
-  //     print("") ;
-  //     name++;
-  // }
-  //
-  //
-  // }
+  var name = 1;
+  for (int i = 0; i <name; i++){
+    String user = stdin.readLineSync()!;
+    if(user.isEmpty){
+      print("exit");
+    }else{
+      stdout.write(user.length);
+      print("") ;
+      name++;
+  }
+   }
   // int i=0;
   // while(i<10){
   //   i++;
@@ -35,4 +33,4 @@ void main() {
   //   }
   }
 
-}
+
