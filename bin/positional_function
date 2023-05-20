@@ -1,0 +1,12 @@
+void main(){
+
+  void sum(int a1, int b1){
+
+    int a = a1;
+    int b = b1;
+    print(a+b);
+  }
+
+  sum(20,30);
+
+}

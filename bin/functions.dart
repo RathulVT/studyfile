@@ -1,13 +1,10 @@
 void main(){
 
-
   void sum(){
-
-    int a =9;
-    int b=12;
+    int a =20;
+    int b =50;
 
     print(a+b);
   }
-
   sum();
 }
