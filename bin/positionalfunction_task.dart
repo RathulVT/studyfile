@@ -5,7 +5,7 @@ void main(){
     if(a.isEven){
       print({"$a =even"});
     }else{
-      
+
       print({"$a.Odd"});
     }
     if(b.isEven){
