@@ -2,7 +2,7 @@
 void main(){
   Details list = Details( name: 'gggg',age: 99);
   print(list.name);
-  list.name = " JOHN";
+
 
 }
 class Details{
