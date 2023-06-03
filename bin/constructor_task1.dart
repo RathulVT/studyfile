@@ -5,6 +5,8 @@ void main(){
    details.name ="john";
 
    Data(a: 'hhhh', b: 009).vv();
+   print(details.name);
+
 
 
   Data(a: 'cxdf', b: 44).name="werftgyu";
