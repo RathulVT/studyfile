@@ -1,9 +1,14 @@
 void main(){
 
-  Data().vv();
-  Data().vv();
-  Data().name="werftgyu";
-  Data().age=12345;
+   Data details = Data(a: 'aaa', b: 99);
+
+   details.name ="john";
+
+   Data(a: 'hhhh', b: 009).vv();
+
+
+  Data(a: 'cxdf', b: 44).name="werftgyu";
+  Data(a: 'aaa', b: 45).age=12345;
 
   // Data().name="sdfghj";
   //
